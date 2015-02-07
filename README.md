@@ -1,5 +1,5 @@
-AngularJS Tutorial 1
-====================
+AngularJS Sports Blog 
+=====================
 
 author: [Filipe Oliveira](http://www.jatreinastehoje.com)
 
